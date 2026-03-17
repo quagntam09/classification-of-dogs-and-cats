@@ -40,7 +40,6 @@
 *.yaml
 *.yml
 *.ipynb
-*.md
 *.txt
 *.pdf
 *.docx
